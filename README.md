@@ -1,4 +1,8 @@
-# $ice - Claude Caude Keeps an Ice Cube Alive
+# ICE - Claude Caude Keeps an Ice Cube Alive
+
+X: https://x.com/icebyclaudecoin
+
+<img width="251" height="253" alt="Capture d’écran 2026-01-17 à 06 05 41" src="https://github.com/user-attachments/assets/0f6b7e47-049a-4a21-871e-a91eb22023cb" />
 
 A production-ready Solana token protocol where **creator fees are used to keep a measurable "ice cube" alive** through automated buybacks, liquidity management, and strategic allocation.
 
@@ -19,6 +23,7 @@ The "ice cube" is a **deterministic, on-chain measurable state** that the protoc
 - All transaction signatures (full transparency)
 
 ### Ice Cube Health Model
+<img width="1536" height="1024" alt="ChatGPT Image Jan 17, 2026, 06_27_23 AM" src="https://github.com/user-attachments/assets/0ebd3ed9-eab8-45b9-9481-4b4cd8dd3c1a" />
 
 The protocol computes a deterministic **IceHealth** score (0-100) every epoch based on measurable inputs:
 
@@ -522,6 +527,7 @@ Test 3: Dead Ice (no activity)
 ```
 
 ---
+<img width="600" height="200" alt="icebanner" src="https://github.com/user-attachments/assets/31695d65-0357-4a4f-b4a1-f0162ea9e9a7" />
 
 **Last Updated**: January 17, 2026  
 **Version**: 1.0.0  
